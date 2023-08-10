@@ -1,2 +1,3 @@
-# cicd-pipeline-riigipilv
-A CI/CD pipeline specific to Riigipilv deployments
+# About
+
+This repository contains [Riigipilv](https://riigipilv.ee)-specific CI/CD pipelines of Bürokratt.
